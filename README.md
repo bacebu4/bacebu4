@@ -1,6 +1,6 @@
 # Main Projects
 
-My main projects currently are Book stash (aka Saferead) and Rational Investing (under development)
+My main projects currently are [Book stash (aka Saferead)](https://github.com/bacebu4/bacebu4/blob/master/README.md#-book-stash-saferead) and [Rational Investing](https://github.com/bacebu4/bacebu4/blob/master/README.md#-rational-invest) (under development)
 
 # <img width="32px" align="center" src="https://user-images.githubusercontent.com/32079387/110068727-58df0580-7d87-11eb-8a1e-d1ab23b29c56.png" /> Book stash (Saferead) 
 
