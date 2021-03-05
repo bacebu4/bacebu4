@@ -22,7 +22,7 @@ Working on fixing bugs on mobile client and making web layout.
 - [saferead-backend](https://github.com/bacebu4/saferead-backend) – backend of the project, all of parsing work is happening here
 - [sr-web](https://github.com/bacebu4/sr-web) – web client, under development
 
-# Rational Invest
+# <img width="32px" align="center" src="https://user-images.githubusercontent.com/32079387/110068955-d0ad3000-7d87-11eb-8f8a-60e69d010933.png" /> Rational Invest
 
 The main project idea is to provide user with information which stocks/currencies he should buy in order to **stay close to the chosen ratio**.
 So basically the project is aimed to solve optimization problem
