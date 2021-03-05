@@ -2,7 +2,7 @@
 
 My main projects currently are Book stash (aka Saferead) and Rational Investing (under development)
 
-# Book stash (Saferead)
+# Book stash (Saferead) <img width="32px" align="left" src="https://user-images.githubusercontent.com/32079387/110068727-58df0580-7d87-11eb-8a1e-d1ab23b29c56.png" />
 
 This is the app that gives you the possibility to store all your ebook's highlights in one place. Currently supported formats are `.epub` and `.txt` for Russian reading app called `Litres`
 
