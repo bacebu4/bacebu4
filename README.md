@@ -2,7 +2,7 @@
 
 My main projects currently are [Book stash (aka Saferead)](https://github.com/bacebu4/bacebu4/blob/master/README.md#-book-stash-saferead) and [Rational Invest](https://github.com/bacebu4/bacebu4/blob/master/README.md#-rational-invest) (under development)
 
-# <img width="32px" align="center" src="https://user-images.githubusercontent.com/32079387/110068727-58df0580-7d87-11eb-8a1e-d1ab23b29c56.png" /> Book stash (Saferead) 
+# <img width="32px" align="center" src="https://user-images.githubusercontent.com/32079387/110068727-58df0580-7d87-11eb-8a1e-d1ab23b29c56.png" /> Book stash (Saferead)
 
 This is the app that gives you the possibility to store all your ebook's highlights in one place. Currently supported formats are `.epub` and `.txt` for Russian reading app called `Litres`
 
@@ -22,6 +22,30 @@ Working on fixing bugs on mobile client and making web layout.
 - [saferead-backend](https://github.com/bacebu4/saferead-backend) – backend of the project, all of parsing work is happening here
 - [sr-web](https://github.com/bacebu4/sr-web) – web client, under development
 
+<br>
+
+# <img width="32px" align="center" src="https://user-images.githubusercontent.com/32079387/111699198-deaf8600-8848-11eb-8dcf-9cbc20a702b1.png" /> React Layout Library
+
+[![version](https://img.shields.io/npm/v/react-layout-library.svg?style=flat-square)](https://www.npmjs.com/package/react-layout-library)
+[![size](https://img.shields.io/badge/self%20size-2.82%20kB-green)](https://bundlephobia.com/result?p=react-layout-library@1.0.1)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+
+The projects provides helpers functions to easily style and layout components
+
+## Features
+
+- HOC for adding `mt` (stands for `margin-top`), `mb`, `ml`, `mr` to React Function Components and styled-components
+- Function for creating HOC for shadows
+- HOC with nice soft shadow
+- Easy to use and understand `FlexBox` component
+
+## Links related to the project:
+
+- [react-layout-library](https://github.com/bacebu4/react-layout-library) – repository for development
+- [NPM package](https://www.npmjs.com/package/react-layout-library)
+
+<br>
+
 # <img width="32px" align="center" src="https://user-images.githubusercontent.com/32079387/110068955-d0ad3000-7d87-11eb-8f8a-60e69d010933.png" /> Rational Invest
 
 The main project idea is to provide user with information which stocks/currencies he should buy in order to **stay close to the chosen ratio**.
@@ -34,18 +58,3 @@ Currently all done with the layout
 ## Repositories related to the project:
 
 - [investing](https://github.com/bacebu4/investing) – web client of the app
-
-# Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
