@@ -1,6 +1,6 @@
 # Main Projects
 
-My main projects currently are [Book stash](https://github.com/bacebu4/bacebu4/blob/master/README.md#-book-stash-saferead) (name during the development – Saferead), [react-layout-library]() and [Rational Invest](https://github.com/bacebu4/bacebu4/blob/master/README.md#-rational-invest) (under development)
+My main projects currently are Book stash (name during the development – Saferead), [react-layout-library](https://www.npmjs.com/package/react-layout-library) and Rational Invest (under development)
 
 <br>
 
